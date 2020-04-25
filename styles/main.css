@@ -1,0 +1,26 @@
+.home{
+    width: 1800;
+    height: 600px;
+    background-image: url(/images/home.png);
+    background-repeat: no-repeat;
+}
+
+.titulo1{
+    display: inline-block;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    direction: center;
+}
+
+.subt1{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    color: white;
+    
+
+}
